@@ -11,7 +11,7 @@ const Chart = () => {
           labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "jul"],
           datasets: [
             {
-              data: [20, 10, 50, 87, 47, 28, 90],
+              data: [20, 10, 50, 80, 47, 28, 90],
             },
           ],
         }}

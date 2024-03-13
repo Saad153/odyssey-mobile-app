@@ -120,7 +120,7 @@ function Basic() {
             <HStack space={1}>
               <Avatar
                 size="48px"
-                source={require("../assets/jobicons/sea.jpg")}
+                source={require("../assets/jobicons/logo.jpg")}
                 style={{ backgroundColor: "silver" }}
               />
               <VStack>
